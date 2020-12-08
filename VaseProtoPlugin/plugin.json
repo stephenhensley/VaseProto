@@ -1,0 +1,25 @@
+{
+  "slug": "VaseProtoPlugin",
+  "name": "VaseProtoPlugin",
+  "version": "1.0.0",
+  "license": "MIT",
+  "brand": "ES",
+  "author": "Stephen Hensley",
+  "authorEmail": "shensley.audio@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "VaseProto",
+      "name": "VaseProtoOsc",
+      "description": "Simple DaisySP Oscillator",
+      "tags": [
+        "oscillator"
+      ]
+    }
+  ]
+}
